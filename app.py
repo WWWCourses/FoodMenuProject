@@ -1,5 +1,3 @@
-def display_menu():
-	pass
+import FoodMenu.functions as f
 
-
-# def ...
+f.display_menu()
